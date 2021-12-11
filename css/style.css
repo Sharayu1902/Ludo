@@ -1,0 +1,30 @@
+
+body{
+
+background-color: black;
+text-align:center;
+}
+
+.name{
+  font-family: 'Lobster', cursive;
+  font-size: 80px;
+  color: white;
+  text-shadow: 2px 2px 8px #66FFFF;
+  margin: auto;
+}
+
+.abcd{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  display: inline-block;
+  margin: 50px;
+  font-size: 30px;
+  color:  white;
+  text-shadow: 2px 2px 8px #FF00FF
+
+}
+footer{
+  font-family: 'Lobster', cursive;
+    text-align: center;
+    color: white;
+}
